@@ -1,8 +1,8 @@
 // typing animation
 var typed= new Typed(".typing",{
-    strings:["  ", "Web Developer", "Computer System Engineer","Freelancer"],
+    strings:[ "Web Developer", "Computer System Engineer","Freelancer"],
     typeSpeed:100,
-    BackSpeed:100,
+    backSpeed:100,
     loop:true
 })
 const nav= document.querySelector(".nav"),
